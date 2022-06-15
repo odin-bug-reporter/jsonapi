@@ -1,4 +1,4 @@
-courses = [
+[
     {
         "name": "name",
         "course_id": "0",
